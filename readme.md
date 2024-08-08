@@ -24,9 +24,20 @@ I created this app to address the common need for downloading and saving video a
 4. The file(s) will be saved in the same directory as the executable.
 5. Once the download is complete, the app will display the directory containing the downloaded file(s), and you can open it directly from the application.
 
-<img src="./Pictures/1.png" alt="1" height="400"> 
-<img src="./Pictures/2.png" alt="2" height="400"> 
-<img src="./Pictures/3.png" alt="3" height="400"> 
+<div align="center">
+    <figure>
+        <img src="./Pictures/1.png" alt="1" height="400">
+        <figcaption>Paste URL, review details, choose download type</figcaption>
+    </figure>
+    <figure>
+        <img src="./Pictures/2.png" alt="2" height="400">
+        <figcaption>File is downloading...</figcaption>
+    </figure>
+    <figure>
+        <img src="./Pictures/3.png" alt="3" height="400">
+        <figcaption>File is downloaded. Click on the shown file path to open in window</figcaption>
+    </figure>
+</div>
 
 ## Documentation
 
